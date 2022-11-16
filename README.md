@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susivager&show_icons=true&theme=transparent)
+
+
 ```yaml
 name: Simon
 located_in: Bern, Switzerland
