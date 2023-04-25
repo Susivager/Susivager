@@ -19,13 +19,7 @@ fields_of_interests:
     "Discord Bots",
     "A lot other things",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
+
   
 currently_learning: ["C#, LUA, JavaScripts"]
 hobbies: ["Gaming", "Hangout with Friends"]
