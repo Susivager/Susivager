@@ -4,8 +4,7 @@
 
 ```yaml
 name: Simon
-located_in: Bern, Switzerland
-current_job: apprenticeship as a computer scientist
+located_in: Switzerland
 education:
   [
     "Self-Taught Developer and Designer",
