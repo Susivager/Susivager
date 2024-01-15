@@ -21,6 +21,5 @@ fields_of_interests:
 
   
 currently_learning: ["C#, LUA, JavaScripts"]
-hobbies: ["Gaming", "Hangout with Friends"]
 ```
   
